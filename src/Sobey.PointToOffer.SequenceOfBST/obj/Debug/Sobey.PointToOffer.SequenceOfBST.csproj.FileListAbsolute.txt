@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST\bin\Debug\Sobey.PointToOffer.SequenceOfBST.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST\bin\Debug\Sobey.PointToOffer.SequenceOfBST.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST\obj\Debug\Sobey.PointToOffer.SequenceOfBST.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST\obj\Debug\Sobey.PointToOffer.SequenceOfBST.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST\obj\Debug\Sobey.PointToOffer.SequenceOfBST.pdb

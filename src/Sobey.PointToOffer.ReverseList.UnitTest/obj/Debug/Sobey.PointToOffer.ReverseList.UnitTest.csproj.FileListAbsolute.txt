@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseList.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseList.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseList.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseList.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseList.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseList.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseList.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseList.UnitTest.pdb

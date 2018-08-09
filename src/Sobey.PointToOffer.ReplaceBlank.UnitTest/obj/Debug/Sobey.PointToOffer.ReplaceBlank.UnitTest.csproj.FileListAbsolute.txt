@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Sobey.PointToOffer.ReplaceBlank.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\bin\Debug\Sobey.PointToOffer.ReplaceBlank.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReplaceBlank.UnitTest\obj\Debug\Sobey.PointToOffer.ReplaceBlank.UnitTest.pdb

@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST.UnitTest\bin\Debug\Sobey.PointToOffer.SequenceOfBST.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST.UnitTest\bin\Debug\Sobey.PointToOffer.SequenceOfBST.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST.UnitTest\bin\Debug\Sobey.PointToOffer.SequenceOfBST.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST.UnitTest\bin\Debug\Sobey.PointToOffer.SequenceOfBST.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST.UnitTest\obj\Debug\Sobey.PointToOffer.SequenceOfBST.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST.UnitTest\obj\Debug\Sobey.PointToOffer.SequenceOfBST.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SequenceOfBST.UnitTest\obj\Debug\Sobey.PointToOffer.SequenceOfBST.UnitTest.pdb

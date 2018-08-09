@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\bin\Debug\Sobey.PointToOffer.ReorderArray.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\bin\Debug\Sobey.PointToOffer.ReorderArray.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\OrderHelper\obj\Debug\Sobey.PointToOffer.ReorderArray.csprojResolveAssemblyReference.cache

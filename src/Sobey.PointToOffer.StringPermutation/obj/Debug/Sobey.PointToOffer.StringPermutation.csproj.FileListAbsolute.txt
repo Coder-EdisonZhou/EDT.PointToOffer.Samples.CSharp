@@ -1,0 +1,4 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringPermutation\bin\Debug\Sobey.PointToOffer.StringPermutation.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringPermutation\bin\Debug\Sobey.PointToOffer.StringPermutation.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringPermutation\obj\Debug\Sobey.PointToOffer.StringPermutation.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringPermutation\obj\Debug\Sobey.PointToOffer.StringPermutation.pdb

@@ -1,0 +1,4 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseWords\bin\Debug\Sobey.PointToOffer.ReverseWords.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseWords\bin\Debug\Sobey.PointToOffer.ReverseWords.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseWords\obj\Debug\Sobey.PointToOffer.ReverseWords.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseWords\obj\Debug\Sobey.PointToOffer.ReverseWords.pdb

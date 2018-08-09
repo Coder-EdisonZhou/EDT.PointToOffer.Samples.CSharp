@@ -1,0 +1,15 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Sobey.PointToOffer.TreeDepth.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Sobey.PointToOffer.TreeDepth.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\obj\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\obj\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\obj\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.pdb
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.dll
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.pdb
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Sobey.PointToOffer.TreeDepth.dll
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\bin\Debug\Sobey.PointToOffer.TreeDepth.pdb
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\obj\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\obj\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.dll
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.TreeDepth.UnitTest\obj\Debug\Sobey.PointToOffer.TreeDepth.UnitTest.pdb

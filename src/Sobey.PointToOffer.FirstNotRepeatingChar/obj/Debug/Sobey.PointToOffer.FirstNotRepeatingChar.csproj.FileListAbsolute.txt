@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotRepeatingChar\bin\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotRepeatingChar\bin\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstNotRepeatingChar\obj\Debug\Sobey.PointToOffer.FirstNotRepeatingChar.pdb

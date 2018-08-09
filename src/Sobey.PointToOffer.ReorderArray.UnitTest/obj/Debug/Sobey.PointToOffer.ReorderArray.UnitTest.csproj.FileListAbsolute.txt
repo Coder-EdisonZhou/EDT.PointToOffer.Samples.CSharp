@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Sobey.PointToOffer.ReorderArray.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\bin\Debug\Sobey.PointToOffer.ReorderArray.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReorderArray.UnitTest\obj\Debug\Sobey.PointToOffer.ReorderArray.UnitTest.pdb

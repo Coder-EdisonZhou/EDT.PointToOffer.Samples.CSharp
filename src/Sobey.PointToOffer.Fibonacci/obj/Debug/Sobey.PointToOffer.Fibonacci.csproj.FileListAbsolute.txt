@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci\bin\Debug\Sobey.PointToOffer.Fibonacci.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci\bin\Debug\Sobey.PointToOffer.Fibonacci.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci\obj\Debug\Sobey.PointToOffer.Fibonacci.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci\obj\Debug\Sobey.PointToOffer.Fibonacci.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci\obj\Debug\Sobey.PointToOffer.Fibonacci.pdb

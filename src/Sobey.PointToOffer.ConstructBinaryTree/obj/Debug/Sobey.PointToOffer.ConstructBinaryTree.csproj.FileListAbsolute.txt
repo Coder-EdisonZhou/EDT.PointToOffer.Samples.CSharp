@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConstructBinaryTree\bin\Debug\Sobey.PointToOffer.ConstructBinaryTree.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConstructBinaryTree\bin\Debug\Sobey.PointToOffer.ConstructBinaryTree.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConstructBinaryTree\obj\Debug\Sobey.PointToOffer.ConstructBinaryTree.pdb

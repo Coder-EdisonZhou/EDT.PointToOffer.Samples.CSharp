@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci.UnitTest\bin\Debug\Sobey.PointToOffer.Fibonacci.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci.UnitTest\bin\Debug\Sobey.PointToOffer.Fibonacci.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci.UnitTest\bin\Debug\Sobey.PointToOffer.Fibonacci.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci.UnitTest\bin\Debug\Sobey.PointToOffer.Fibonacci.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci.UnitTest\obj\Debug\Sobey.PointToOffer.Fibonacci.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci.UnitTest\obj\Debug\Sobey.PointToOffer.Fibonacci.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Fibonacci.UnitTest\obj\Debug\Sobey.PointToOffer.Fibonacci.UnitTest.pdb

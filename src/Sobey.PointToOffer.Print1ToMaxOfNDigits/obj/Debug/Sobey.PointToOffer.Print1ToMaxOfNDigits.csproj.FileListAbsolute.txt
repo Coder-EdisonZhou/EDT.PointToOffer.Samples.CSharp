@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Print1ToMaxOfNDigits\bin\Debug\Sobey.PointToOffer.Print1ToMaxOfNDigits.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Print1ToMaxOfNDigits\bin\Debug\Sobey.PointToOffer.Print1ToMaxOfNDigits.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Print1ToMaxOfNDigits\obj\Debug\Sobey.PointToOffer.Print1ToMaxOfNDigits.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Print1ToMaxOfNDigits\obj\Debug\Sobey.PointToOffer.Print1ToMaxOfNDigits.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Print1ToMaxOfNDigits\obj\Debug\Sobey.PointToOffer.Print1ToMaxOfNDigits.pdb

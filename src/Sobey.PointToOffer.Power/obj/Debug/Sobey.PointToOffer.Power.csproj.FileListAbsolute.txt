@@ -1,0 +1,4 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power\bin\Debug\Sobey.PointToOffer.Power.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power\bin\Debug\Sobey.PointToOffer.Power.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power\obj\Debug\Sobey.PointToOffer.Power.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power\obj\Debug\Sobey.PointToOffer.Power.pdb

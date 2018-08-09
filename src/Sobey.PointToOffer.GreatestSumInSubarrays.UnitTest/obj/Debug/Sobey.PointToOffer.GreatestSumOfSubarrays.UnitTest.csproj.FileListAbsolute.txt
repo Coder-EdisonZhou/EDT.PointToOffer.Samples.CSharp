@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumInSubarrays.UnitTest\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.UnitTest.pdb

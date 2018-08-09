@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1\bin\Debug\Sobey.PointToOffer.NumberOf1.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1\bin\Debug\Sobey.PointToOffer.NumberOf1.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1\bin\Debug\Sobey.PointToOffer.NumberOf1InBinary.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1\bin\Debug\Sobey.PointToOffer.NumberOf1InBinary.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1\obj\Debug\Sobey.PointToOffer.NumberOf1.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1\obj\Debug\Sobey.PointToOffer.NumberOf1.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.NumberOf1\obj\Debug\Sobey.PointToOffer.NumberOf1.pdb

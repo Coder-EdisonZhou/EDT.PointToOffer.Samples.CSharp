@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseWords.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\bin\Debug\Sobey.PointToOffer.ReverseWords.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ReverseSentense.UnitTest\obj\Debug\Sobey.PointToOffer.ReverseWords.UnitTest.pdb

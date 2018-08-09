@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\bin\Debug\Sobey.PointToOffer.Singleton.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\bin\Debug\Sobey.PointToOffer.Singleton.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.pdb
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.exe
+E:\Projects\DotNet Workspace\Sobey.PointToOffer\Sobey.PointToOffer.Singleton\obj\Debug\Sobey.PointToOffer.Singleton.pdb

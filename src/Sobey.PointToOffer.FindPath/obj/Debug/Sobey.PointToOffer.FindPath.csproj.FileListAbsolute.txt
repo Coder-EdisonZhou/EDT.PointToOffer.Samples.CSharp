@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\bin\Debug\Sobey.PointToOffer.FindPath.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\bin\Debug\Sobey.PointToOffer.FindPath.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindPath\obj\Debug\Sobey.PointToOffer.FindPath.pdb

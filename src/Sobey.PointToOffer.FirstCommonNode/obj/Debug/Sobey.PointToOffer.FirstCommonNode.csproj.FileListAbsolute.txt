@@ -1,0 +1,4 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstCommonNode\bin\Debug\Sobey.PointToOffer.FirstCommonNode.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstCommonNode\bin\Debug\Sobey.PointToOffer.FirstCommonNode.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstCommonNode\obj\Debug\Sobey.PointToOffer.FirstCommonNode.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FirstCommonNode\obj\Debug\Sobey.PointToOffer.FirstCommonNode.pdb

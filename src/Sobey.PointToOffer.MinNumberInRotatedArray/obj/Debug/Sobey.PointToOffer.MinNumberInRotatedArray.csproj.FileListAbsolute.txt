@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.csprojResolveAssemblyReference.cache

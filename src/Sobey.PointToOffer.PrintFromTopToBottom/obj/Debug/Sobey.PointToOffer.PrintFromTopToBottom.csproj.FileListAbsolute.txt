@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintFromTopToBottom\bin\Debug\Sobey.PointToOffer.PrintFromTopToBottom.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintFromTopToBottom\bin\Debug\Sobey.PointToOffer.PrintFromTopToBottom.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintFromTopToBottom\obj\Debug\Sobey.PointToOffer.PrintFromTopToBottom.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintFromTopToBottom\obj\Debug\Sobey.PointToOffer.PrintFromTopToBottom.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintFromTopToBottom\obj\Debug\Sobey.PointToOffer.PrintFromTopToBottom.pdb

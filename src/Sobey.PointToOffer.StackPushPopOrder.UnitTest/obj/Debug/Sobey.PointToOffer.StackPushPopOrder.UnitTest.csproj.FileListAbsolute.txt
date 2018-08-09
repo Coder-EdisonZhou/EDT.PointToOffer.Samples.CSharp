@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\bin\Debug\Sobey.PointToOffer.StackPushPopOrder.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StackPushPopOrder.UnitTest\obj\Debug\Sobey.PointToOffer.StackPushPopOrder.UnitTest.pdb

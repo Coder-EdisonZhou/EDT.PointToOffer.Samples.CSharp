@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\bin\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest\obj\Debug\Sobey.PointToOffer.FindInPartiallySortedMatrix.UnitTest.pdb

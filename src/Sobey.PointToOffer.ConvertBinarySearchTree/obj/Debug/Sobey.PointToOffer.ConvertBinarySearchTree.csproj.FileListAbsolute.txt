@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree\bin\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree\bin\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.ConvertBinarySearchTree\obj\Debug\Sobey.PointToOffer.ConvertBinarySearchTree.pdb

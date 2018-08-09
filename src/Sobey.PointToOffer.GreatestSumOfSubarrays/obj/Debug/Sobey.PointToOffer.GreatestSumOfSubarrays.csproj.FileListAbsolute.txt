@@ -1,0 +1,4 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumOfSubarrays\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumOfSubarrays\bin\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumOfSubarrays\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.GreatestSumOfSubarrays\obj\Debug\Sobey.PointToOffer.GreatestSumOfSubarrays.pdb

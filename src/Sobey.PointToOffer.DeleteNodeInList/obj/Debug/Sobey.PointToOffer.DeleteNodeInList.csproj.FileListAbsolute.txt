@@ -1,0 +1,4 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.pdb

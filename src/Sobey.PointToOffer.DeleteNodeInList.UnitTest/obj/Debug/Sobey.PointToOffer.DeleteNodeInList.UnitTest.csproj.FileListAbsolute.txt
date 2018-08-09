@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList.UnitTest\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList.UnitTest\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList.UnitTest\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList.UnitTest\bin\Debug\Sobey.PointToOffer.DeleteNodeInList.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList.UnitTest\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList.UnitTest\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.DeleteNodeInList.UnitTest\obj\Debug\Sobey.PointToOffer.DeleteNodeInList.UnitTest.pdb

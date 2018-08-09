@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumber\bin\Debug\Sobey.PointToOffer.UglyNumber.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumber\bin\Debug\Sobey.PointToOffer.UglyNumber.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.UglyNumber\obj\Debug\Sobey.PointToOffer.UglyNumber.pdb

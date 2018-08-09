@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\bin\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest\obj\Debug\Sobey.PointToOffer.MirrorOfBinaryTree.UnitTest.pdb

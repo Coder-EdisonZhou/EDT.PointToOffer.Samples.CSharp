@@ -1,0 +1,4 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree\bin\Debug\Sobey.PointToOffer.SubstructureInTree.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree\bin\Debug\Sobey.PointToOffer.SubstructureInTree.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree\obj\Debug\Sobey.PointToOffer.SubstructureInTree.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree\obj\Debug\Sobey.PointToOffer.SubstructureInTree.pdb

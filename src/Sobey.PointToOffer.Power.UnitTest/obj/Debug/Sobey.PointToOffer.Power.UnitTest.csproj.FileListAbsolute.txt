@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\bin\Debug\Sobey.PointToOffer.Power.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.Power.UnitTest\obj\Debug\Sobey.PointToOffer.Power.UnitTest.pdb

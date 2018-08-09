@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintListInReversedOrder\bin\Debug\Sobey.PointToOffer.PrintListInReversedOrder.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintListInReversedOrder\bin\Debug\Sobey.PointToOffer.PrintListInReversedOrder.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintListInReversedOrder\obj\Debug\Sobey.PointToOffer.PrintListInReversedOrder.pdb

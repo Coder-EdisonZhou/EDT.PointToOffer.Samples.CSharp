@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\bin\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest\obj\Debug\Sobey.PointToOffer.MinNumberInRotatedArray.UnitTest.pdb

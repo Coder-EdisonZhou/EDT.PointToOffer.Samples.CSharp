@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatrix\bin\Debug\Sobey.PointToOffer.PrintMatrix.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatrix\bin\Debug\Sobey.PointToOffer.PrintMatrix.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.PrintMatrix\obj\Debug\Sobey.PointToOffer.PrintMatrix.pdb

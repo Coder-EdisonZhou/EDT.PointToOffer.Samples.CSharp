@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumber\bin\Debug\Sobey.PointToOffer.TopKNumber.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumber\bin\Debug\Sobey.PointToOffer.TopKNumber.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.TopKNumber\obj\Debug\Sobey.PointToOffer.TopKNumber.csprojResolveAssemblyReference.cache

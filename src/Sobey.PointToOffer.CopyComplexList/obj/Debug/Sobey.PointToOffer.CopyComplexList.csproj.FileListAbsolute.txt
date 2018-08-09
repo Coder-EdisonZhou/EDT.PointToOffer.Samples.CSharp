@@ -1,0 +1,5 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyComplexList\bin\Debug\Sobey.PointToOffer.CopyComplexList.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyComplexList\bin\Debug\Sobey.PointToOffer.CopyComplexList.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.CopyComplexList\obj\Debug\Sobey.PointToOffer.CopyComplexList.pdb

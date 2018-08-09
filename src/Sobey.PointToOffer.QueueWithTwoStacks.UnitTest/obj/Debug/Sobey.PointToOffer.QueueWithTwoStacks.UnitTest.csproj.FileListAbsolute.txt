@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest\bin\Debug\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest\bin\Debug\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest\bin\Debug\Sobey.PointToOffer.QueueWithTwoStacks.exe
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest\bin\Debug\Sobey.PointToOffer.QueueWithTwoStacks.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest\obj\Debug\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest\obj\Debug\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest\obj\Debug\Sobey.PointToOffer.QueueWithTwoStacks.UnitTest.pdb

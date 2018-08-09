@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\bin\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\bin\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\bin\Debug\Sobey.PointToOffer.MergeSortedLists.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\bin\Debug\Sobey.PointToOffer.MergeSortedLists.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\UnitTestProject1\obj\Debug\Sobey.PointToOffer.MergeSortedLists.UnitTest.pdb

@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Sobey.PointToOffer.SubstructureInTree.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\bin\Debug\Sobey.PointToOffer.SubstructureInTree.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.SubstructureInTree.UnitTest\obj\Debug\Sobey.PointToOffer.SubstructureInTree.UnitTest.pdb

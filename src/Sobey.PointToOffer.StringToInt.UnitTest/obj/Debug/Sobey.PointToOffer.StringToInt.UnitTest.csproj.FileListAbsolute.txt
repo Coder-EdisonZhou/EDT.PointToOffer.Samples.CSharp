@@ -1,0 +1,7 @@
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Sobey.PointToOffer.StringToInt.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Sobey.PointToOffer.StringToInt.UnitTest.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Sobey.PointToOffer.StringToInt.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\bin\Debug\Sobey.PointToOffer.StringToInt.pdb
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.dll
+E:\Project Files\dotNet Projects\Sobey.PointToOffer\Sobey.PointToOffer.StringToInt.UnitTest\obj\Debug\Sobey.PointToOffer.StringToInt.UnitTest.pdb
