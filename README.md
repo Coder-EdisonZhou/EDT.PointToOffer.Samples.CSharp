@@ -1,7 +1,7 @@
 # EDC.PointToOffer.CSharp.Demo
 本人基于《剑指Offer》的学习代码（C#代码实现），可以作为各位.NET/C#开发童鞋学习《剑指Offer》的补充示例，每个示例均配有Unit Test，并且能够通过。
 
-![markdown](http://img35.ddimg.cn/64/7/22547215-1_o.jpg)
+![markdown](https://img3.doubanio.com/view/subject/l/public/s7038106.jpg)
 
 剑指Offer算法题C#示例：
 
